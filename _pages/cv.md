@@ -11,25 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science and Interactive Media, University of Miami, 2025
+* B.S. in Computer Science and Interactive Media, University of Miami, 2026
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2024: Performance Test QA Intern
+  * CSAA Insurance Group
+  * Duties includes:
+    * Deployed to performance testing environments to support and upkeep testing workflow for new code releases 
+    * Won the Intern Innovation Jam with a group of interns who created a prototype of an application to mitigate personal wildfire risk
+    * Facilitated and joined scrum team daily stand-up, retrospective, and refinement meetings
+    * Created dashboards on New Relic to monitor the performance of front-end transactions for certain applications
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
 * Skill 1
@@ -38,25 +31,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Kappa Thete Pi Professional Technology Fraternity - Vice President of Marketing

@@ -1,22 +1,16 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "Games" #publications
+    url: /games/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "App Prototypes" #tasks
+    url: /apps/    
 
-  - title: "Teaching"
-    url: /teaching/    
-    
   - title: "Portfolio"
     url: /portfolio/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
   - title: "CV"
     url: https://kaitland12.github.io/cv/
     
-  - title: "Guide"
-    url: /markdown/
+  - title: "Contact"
+    url: /contact/
