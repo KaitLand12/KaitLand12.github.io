@@ -17,7 +17,8 @@ Work experience
 ======
 * Summer 2024: Performance Test QA Intern
   * CSAA Insurance Group
-  * Duties includes:
+  * 05/20/2024 - 08/09/2024
+  * Duties included:
     * Deployed to performance testing environments to support and upkeep testing workflow for new code releases 
     * Won the Intern Innovation Jam with a group of interns who created a prototype of an application to mitigate personal wildfire risk
     * Facilitated and joined scrum team daily stand-up, retrospective, and refinement meetings
@@ -32,6 +33,6 @@ Skills
   * Sub-skill 2.3
 * Skill 3
   
-Service and leadership
+Leadership
 ======
 * Kappa Thete Pi Professional Technology Fraternity - Vice President of Marketing
